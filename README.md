@@ -1,3 +1,6 @@
+This is a fork of anonmasky's weboas.is clone to suit my Anarchist needs. :)
+
+
 # anonmasky.github.io
 
 Anonmasky is a beautiful startpage for geeks out there.
