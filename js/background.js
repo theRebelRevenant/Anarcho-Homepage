@@ -26,14 +26,14 @@ function canvasApp() {
     function drawScreen() {
         ctx.fillStyle = 'rgba(0,0,0,.07)';
         ctx.fillRect(0, 0, w, h);
-        ctx.fillStyle = '#1A8D98';
+        ctx.fillStyle = '#F1748E';
         ctx.font = '12px Courier';
         yPositions.map(function (y, index) {
 
             //text = String.fromCharCode(Math.floor(Math.random()*(49-48+1)+48);
             //Use above to print 0 and 1 Matrix from charmap.                                                          
             
-            var randtxt = "神神秘人宇宙";
+            var randtxt = "神Ⓐv神秘 Ⓐ人宇宙";
             text = randtxt.charAt(Math.floor(Math.random() * randtxt.length));
 
             x = (index * 10);
